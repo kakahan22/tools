@@ -1,0 +1,3 @@
+https://rubyinstaller.org/downloads/
+
+gem sources --add  https://mirrors.aliyun.com/rubygems/ --remove https://gems.ruby-china.com/
